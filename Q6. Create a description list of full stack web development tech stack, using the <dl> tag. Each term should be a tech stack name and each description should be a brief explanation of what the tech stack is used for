@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Stack Tech Stack</title>
+</head>
+<body>
+    <h1>Full Stack Web Development Tech Stack</h1>
+
+    <dl>
+        <dt>Front-End Frameworks</dt>
+        <dd>Frameworks like React, Angular, or Vue.js that handle the presentation layer of web applications, ensuring a dynamic and responsive user interface.</dd>
+
+        <dt>Back-End Frameworks</dt>
+        <dd>Frameworks such as Node.js (with Express), Django, or Ruby on Rails that handle server-side logic, database interactions, and the overall server architecture.</dd>
+
+        <dt>Database Systems</dt>
+        <dd>Database technologies like MySQL, PostgreSQL, or MongoDB that store and manage the application's data efficiently.</dd>
+
+        <dt>RESTful APIs</dt>
+        <dd>Architectural style for building APIs (Application Programming Interfaces) that allow communication between the front-end and back-end of a web application.</dd>
+
+        <dt>Version Control</dt>
+        <dd>Systems like Git that track changes in the codebase, enabling collaboration, code management, and the ability to roll back changes if needed.</dd>
+
+        <dt>Cloud Services</dt>
+        <dd>Platforms like AWS, Azure, or Google Cloud for hosting, scaling, and managing web applications in a cloud environment.</dd>
+
+        <dt>Containerization</dt>
+        <dd>Tools like Docker that package applications and their dependencies into containers, ensuring consistency across different environments.</dd>
+
+        <dt>Continuous Integration/Continuous Deployment (CI/CD)</dt>
+        <dd>Automated processes that ensure code changes are tested, integrated, and deployed smoothly, enhancing the development and release workflow.</dd>
+
+        <dt>Serverless Architecture</dt>
+        <dd>An architectural approach where developers focus on writing code without managing server infrastructure directly, often using services like AWS Lambda or Azure Functions.</dd>
+    </dl>
+</body>
+</html>
