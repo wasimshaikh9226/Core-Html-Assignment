@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Development Resources</title>
+</head>
+<body>
+    <h1>Web Development Resources</h1>
+
+    <ul>
+        <li><a href="https://www.pwskill.com" target="_blank">Take me to PW Skill to buy a course</a></li>
+        <li><a href="https://developer.mozilla.org" target="_blank">Take me to MDN Docs to know more about Web Development</a></li>
+        <li><a href="https://labs.pwskill.com" target="_blank">Take me to PW Skill Lab to practice live coding</a></li>
+    </ul>
+</body>
+</html>
