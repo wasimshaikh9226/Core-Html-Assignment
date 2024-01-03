@@ -1,0 +1,60 @@
+<html>:
+
+Description: Defines the root of an HTML document.
+Usage: All HTML elements are nested within this tag.
+<head>:
+
+Description: Contains meta-information about the HTML document.
+Usage: Includes elements like <meta>, <title>, and <link>.
+<title>:
+
+Description: Sets the title of the HTML document (displayed in the browser tab or window).
+Usage: Placed within the <head> section.
+<body>:
+
+Description: Contains the content of the HTML document, such as text, images, links, etc.
+Usage: All visible content goes inside this tag.
+<h1> to <h6>:
+
+Description: Defines headings of different levels (from largest <h1> to smallest <h6>).
+Usage: Indicates the hierarchy and importance of content.
+<p>:
+
+Description: Represents a paragraph of text.
+Usage: Used to structure and organize textual content.
+<a>:
+
+Description: Creates hyperlinks to other web pages or resources.
+Usage: Includes the href attribute to specify the URL.
+<img>:
+
+Description: Embeds images into the HTML document.
+Usage: Requires the src attribute to specify the image file.
+<ul>:
+
+Description: Defines an unordered list.
+Usage: Contains <li> (list item) elements.
+<ol>:
+
+Description: Defines an ordered (numbered) list.
+Usage: Contains <li> elements, each representing a list item.
+<li>:
+
+Description: Represents a list item within <ul> or <ol>.
+Usage: Used to list individual items in a list.
+<div>:
+
+Description: A generic container that is used to group other HTML elements.
+Usage: Provides a way to structure and style content.
+<span>:
+
+Description: A generic container used to apply styles or scripting to a small portion of text.
+Usage: Useful for applying styles or scripts without affecting the overall structure.
+<table>:
+
+Description: Defines an HTML table for organizing data into rows and columns.
+Usage: Contains <tr> (table row), <td> (table data), and other related tags.
+<form>:
+
+Description: Represents an HTML form for user input.
+Usage: Contains input elements like text fields, buttons, etc.
