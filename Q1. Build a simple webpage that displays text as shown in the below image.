@@ -1,0 +1,9 @@
+<body>
+    <p><strong>this text will be bolded</strong></p>
+    <p><mark>this text will be highlighted</mark></p>
+    <p><u>this text will be underlined</u></p>
+    <p>this is normal text <sup>this will be superscripted</sup> this is normal again</p>
+    <p>this is normal text <sub>this text will be subscripted</sub></p>
+    <p>normal text <small>small text</small></p>
+    <p><del>this text will be deleted</del></p>
+</body>
